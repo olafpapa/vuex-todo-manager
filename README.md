@@ -1,3 +1,6 @@
+[Vuex Crash Course | State Management](https://www.youtube.com/watch?v=5lVQgZzLMHc)
+====
+
 ## Project setup
 ```
 npm install
