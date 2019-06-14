@@ -1,5 +1,3 @@
-# vuex_todo_manager
-
 ## Project setup
 ```
 npm install
